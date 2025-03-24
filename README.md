@@ -1,11 +1,21 @@
 # MCManager
 
+![MCManager Logo](img/logo.png)
+
 MCManager is a simple and user-friendly Minecraft Server Manager built with Python and PyQt6. It allows you to easily control your Minecraft server with a graphical interface.
 
 ## Features
 
-![MCManager GUI](https://your-image-link.com/mcmanager_gui.png)  
-*Example of MCManager's main interface.*
+🖥️ *Monitor and manage your Minecraft server console in real-time.*
+
+🔧 *Edit server settings with ease.*
+
+- ✅ Start & Stop Minecraft servers
+- ✅ Live server console
+- ✅ Edit `server.properties` settings
+- ✅ Manage players (ban, whitelist, OP)
+- ✅ Automatic backups
+
 
 - ✅ Start & Stop Minecraft servers
 - ✅ Live server console
@@ -15,7 +25,16 @@ MCManager is a simple and user-friendly Minecraft Server Manager built with Pyth
 
 ## Installation & Usage
 
-![Server Management](https://your-image-link.com/server_management.png)  
+📂 *Easily edit server files and configurations.*
+
+⚡ *Quickly start, stop, and monitor your server.*
+
+1. **Download MCManager** from the latest release.
+2. Run `MCManager`.
+3. Select your Minecraft server folder.
+4. Use the GUI to start, stop, and manage the server.
+
+ 
 *Easily start, stop, and monitor your server with a user-friendly interface.*
 
 1. **Download MCManager** from the latest release.
